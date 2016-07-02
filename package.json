@@ -1,18 +1,27 @@
 {
-  "name": "envato",
-  "version": "1.0.0",
+  "name": "envato-license-check",
+  "version": "1.0.1",
   "description": "Envato license check cli",
-  "main": "index.js",
+  "main": "lib/envato.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "envato": "./lib/envato-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmich/envato-cli.git"
   },
   "keywords": [
     "node",
     "cli"
   ],
-  "author": "MiguelMich",
+  "author": "Miguel Mich",
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "prompt": "^1.0.0",
+    "request": "^2.72.0"
   }
 }
