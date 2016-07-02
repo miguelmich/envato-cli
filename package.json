@@ -1,6 +1,6 @@
 {
   "name": "envato-license-check",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Envato license check cli",
   "main": "lib/envato.js",
   "scripts": {
