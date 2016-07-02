@@ -20,7 +20,7 @@ There is only one main command `check [license_id]` if no command is provided he
 
   Commands:
 
-    check [env]  Validate the license by id
+    check [license_id]  Validate the license by id
 
   Options:
 
