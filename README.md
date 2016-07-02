@@ -1,11 +1,11 @@
 # envato-license-check
 
-This is a command line client Envato API license validator.
+This is a command line client Envato API license validator, useful when you need to validate a purchase with the license id.
 
 ## Getting Started
 
 *  Install with npm: `npm install -g envato-license-check`
-*  Run it with `envato`
+*  Run it with `envato [command] [arguments]`
 
 ### Initial Setup
 When running the first time (or if you didn't create a config file), it will ask you for your Envato username and API Key and a new config file will be created in `~/.envato-cli.json` with this data. If you want you can create or modify this file manually.
