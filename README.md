@@ -8,7 +8,7 @@ This is a command line client Envato API license validator, useful when you need
 *  Run it with `envato [command] [arguments]`
 
 ### Initial Setup
-When running the first time (or if you didn't create a config file), it will ask you for your Envato username and API Key and a new config file will be created in `~/.envato-cli.json` with this data. If you want you can create or modify this file manually.
+When running the first time (or if you didn't create a config file), it will ask you for your Envato username and API Key and a new config file will be created in `~/.envato-cli.json` with this data. You can create or modify this file manually.
 
 ## Usage
 
