@@ -31,5 +31,5 @@ There is only one main command `check [license_id]` if no command is provided he
 
 ## License
 
-Copyright (c) 2016 Miguel Mich  
+Copyright (c) 2019 Miguel Henao  
 Licensed under the MIT license.
